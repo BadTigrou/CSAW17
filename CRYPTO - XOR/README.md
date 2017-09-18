@@ -1,5 +1,5 @@
 # CSAW17
-##Another Xor - Crypto
+## Another Xor - Crypto
 Hey, hey can you find my secret.
 UPDATE 10:13 Eastern: the flag is whatever is in sys.argv[2]
 

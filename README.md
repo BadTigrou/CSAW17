@@ -3,16 +3,8 @@ CSAW17 is one of the largest student-run cyber-security event in the world, feat
 
 All write up available here : [techoverflow.fr](http://techoverflow.fr/category/csaw17/)
 
-[Follow me](https://twitter.com/Bad_Tigrou)
+[Follow me on Twitter](https://twitter.com/Bad_Tigrou)
 
-## Write-up
-[CRYPTO] Another Xor
-[CRYPTO] Almost Xor
-[FORENSIC] Best Router
-[FORENSIC] Missed Registration
-[MISC] Serial
-[MISC] CVV
-[WEB] Littlequery
-[WEB] Orange V1
+
 
 
